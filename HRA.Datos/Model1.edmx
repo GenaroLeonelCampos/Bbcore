@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BBCORE1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <Function Name="CONSUMO_DETALLE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+          <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+          <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="CONSUMO_DETALLE_RESUMEN" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+          <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+          <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="CONSUMO_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="CONSUMO_RESUMEN_DONANTES" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+          <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+          <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+        </Function>
+        <Function Name="ups_DATOS_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="usp_CANDIDATOS_DONACIONES_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="num_procedimiento" Type="varchar" Mode="In" />
+        </Function>
+        <Function Name="usp_TRANSFUSIONES_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="NUM_PROCEDIMIENTO" Type="varchar" Mode="In" />
+        </Function>
+        <EntityContainer Name="BBCORE1ModelStoreContainer" />
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BBCORE1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="BBCORE1Entities" annotation:LazyLoadingEnabled="true" >
+          <FunctionImport Name="CONSUMO_DETALLE" ReturnType="Collection(BBCORE1Model.CONSUMO_DETALLE_Result)">
+            <Parameter Name="HISTORIA" Mode="In" Type="String" />
+            <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+            <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+          </FunctionImport>
+          <FunctionImport Name="CONSUMO_DETALLE_RESUMEN" ReturnType="Collection(BBCORE1Model.CONSUMO_DETALLE_RESUMEN_Result)">
+            <Parameter Name="HISTORIA" Mode="In" Type="String" />
+            <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+            <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+          </FunctionImport>
+          <FunctionImport Name="CONSUMO_PACIENTE" ReturnType="Collection(BBCORE1Model.CONSUMO_PACIENTE_Result)">
+          <Parameter Name="HISTORIA" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="CONSUMO_RESUMEN_DONANTES" ReturnType="Collection(BBCORE1Model.CONSUMO_RESUMEN_DONANTES_Result)">
+            <Parameter Name="HISTORIA" Mode="In" Type="String" />
+            <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+            <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+          </FunctionImport>
+          <FunctionImport Name="ups_DATOS_PACIENTE" ReturnType="Collection(BBCORE1Model.ups_DATOS_PACIENTE_Result)">
+          <Parameter Name="HISTORIA" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="usp_CANDIDATOS_DONACIONES_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_CANDIDATOS_DONACIONES_PACIENTE_Result)">
+            <Parameter Name="HISTORIA" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result)">
+            <Parameter Name="num_procedimiento" Mode="In" Type="String" />
+          </FunctionImport>
+          <FunctionImport Name="usp_TRANSFUSIONES_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_TRANSFUSIONES_PACIENTE_Result)">
+            <Parameter Name="NUM_PROCEDIMIENTO" Mode="In" Type="String" />
+          </FunctionImport>
+        </EntityContainer>
+        <ComplexType Name="CONSUMO_DETALLE_Result">
+          <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+          <Property Type="String" Name="HEMOCOMPONENTE" Nullable="true" MaxLength="20" />
+          <Property Type="Int16" Name="CANTIDAD" Nullable="true" />
+          <Property Type="DateTime" Name="COMPATIBILIZADO" Nullable="true" Precision="23" />
+          <Property Type="String" Name="ABO" Nullable="true" MaxLength="4" />
+          <Property Type="DateTime" Name="SALIDA" Nullable="true" Precision="23" />
+          <Property Type="Int32" Name="po_estado" Nullable="true" />
+          <Property Type="Int32" Name="POBLADOR" Nullable="true" />
+          <Property Type="Int16" Name="u_estado" Nullable="true" />
+          <Property Type="Int32" Name="po_id" Nullable="false" />
+          <Property Type="String" Name="SELLO" Nullable="true" MaxLength="10" />
+          <Property Type="Int32" Name="u_hem_id" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="CONSUMO_DETALLE_RESUMEN_Result">
+          <Property Type="Int32" Name="GLOBULOS" Nullable="true" />
+          <Property Type="Int32" Name="PLAQUETAS" Nullable="true" />
+          <Property Type="Int32" Name="PLASMA" Nullable="true" />
+          <Property Type="Int32" Name="CRIO" Nullable="true" />
+          <Property Type="Int32" Name="AFERESIS" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="CONSUMO_PACIENTE_Result">
+          <Property Type="String" Name="HISTORIA" Nullable="true" MaxLength="40" />
+          <Property Type="String" Name="POSTULANTE" Nullable="true" MaxLength="1002" />
+          <Property Type="String" Name="ABO" Nullable="true" MaxLength="4" />
+        </ComplexType>
+        <ComplexType Name="CONSUMO_RESUMEN_DONANTES_Result">
+          <Property Type="Int32" Name="POSTULANTES" Nullable="true" />
+          <Property Type="Int32" Name="DONANTE" Nullable="true" />
+          <Property Type="Int32" Name="RECHAZADOS" Nullable="true" />
+          <Property Type="Int32" Name="RECHAZADOS_SEROLOGIA" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="ups_DATOS_PACIENTE_Result">
+          <Property Type="String" Name="t_doc" Nullable="true" MaxLength="3" />
+          <Property Type="String" Name="num_doc" Nullable="true" MaxLength="40" />
+          <Property Type="String" Name="num_proc" Nullable="true" MaxLength="12" />
+          <Property Type="String" Name="Gh" Nullable="true" MaxLength="4" />
+          <Property Type="String" Name="PACIENTE" Nullable="true" MaxLength="1002" />
+        </ComplexType>
+        <ComplexType Name="usp_CANDIDATOS_DONACIONES_PACIENTE_Result">
+          <Property Type="String" Name="CANDIDATO" Nullable="true" MaxLength="1002" />
+          <Property Type="String" Name="N_PRE_DON" Nullable="true" MaxLength="10" />
+          <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+          <Property Type="DateTime" Name="FECHA" Nullable="true" Precision="23" />
+          <Property Type="String" Name="ESTADO" Nullable="false" MaxLength="9" />
+        </ComplexType>
+        <ComplexType Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result">
+          <Property Type="Int32" Name="GLOBULOS" Nullable="true" />
+          <Property Type="Int32" Name="TRANSFUSION" Nullable="true" />
+        </ComplexType>
+        <ComplexType Name="usp_TRANSFUSIONES_PACIENTE_Result">
+          <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+          <Property Type="String" Name="COMP" Nullable="true" MaxLength="20" />
+          <Property Type="String" Name="PREDON" Nullable="true" MaxLength="10" />
+          <Property Type="Int16" Name="CANTIDAD" Nullable="true" />
+          <Property Type="DateTime" Name="F_COMPATIBILIDAD" Nullable="true" Precision="23" />
+          <Property Type="String" Name="GF" Nullable="true" MaxLength="4" />
+          <Property Type="String" Name="UNIDAD2" Nullable="true" MaxLength="12" />
+          <Property Type="DateTime" Name="F_TRANSFUSION" Nullable="true" Precision="23" />
+        </ComplexType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BBCORE1ModelStoreContainer" CdmEntityContainer="BBCORE1Entities" >
+          <FunctionImportMapping FunctionImportName="CONSUMO_DETALLE" FunctionName="BBCORE1Model.Store.CONSUMO_DETALLE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_DETALLE_Result">
+                <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+                <ScalarProperty Name="HEMOCOMPONENTE" ColumnName="HEMOCOMPONENTE" />
+                <ScalarProperty Name="CANTIDAD" ColumnName="CANTIDAD" />
+                <ScalarProperty Name="COMPATIBILIZADO" ColumnName="COMPATIBILIZADO" />
+                <ScalarProperty Name="ABO" ColumnName="ABO" />
+                <ScalarProperty Name="SALIDA" ColumnName="SALIDA" />
+                <ScalarProperty Name="po_estado" ColumnName="po_estado" />
+                <ScalarProperty Name="POBLADOR" ColumnName="POBLADOR" />
+                <ScalarProperty Name="u_estado" ColumnName="u_estado" />
+                <ScalarProperty Name="po_id" ColumnName="po_id" />
+                <ScalarProperty Name="SELLO" ColumnName="SELLO" />
+                <ScalarProperty Name="u_hem_id" ColumnName="u_hem_id" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="CONSUMO_DETALLE_RESUMEN" FunctionName="BBCORE1Model.Store.CONSUMO_DETALLE_RESUMEN">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_DETALLE_RESUMEN_Result">
+                <ScalarProperty Name="GLOBULOS" ColumnName="GLOBULOS" />
+                <ScalarProperty Name="PLAQUETAS" ColumnName="PLAQUETAS" />
+                <ScalarProperty Name="PLASMA" ColumnName="PLASMA" />
+                <ScalarProperty Name="CRIO" ColumnName="CRIO" />
+                <ScalarProperty Name="AFERESIS" ColumnName="AFERESIS" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="CONSUMO_PACIENTE" FunctionName="BBCORE1Model.Store.CONSUMO_PACIENTE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_PACIENTE_Result">
+                <ScalarProperty Name="HISTORIA" ColumnName="HISTORIA" />
+                <ScalarProperty Name="POSTULANTE" ColumnName="POSTULANTE" />
+                <ScalarProperty Name="ABO" ColumnName="ABO" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="CONSUMO_RESUMEN_DONANTES" FunctionName="BBCORE1Model.Store.CONSUMO_RESUMEN_DONANTES">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_RESUMEN_DONANTES_Result">
+                <ScalarProperty Name="POSTULANTES" ColumnName="POSTULANTES" />
+                <ScalarProperty Name="DONANTE" ColumnName="DONANTE" />
+                <ScalarProperty Name="RECHAZADOS" ColumnName="RECHAZADOS" />
+                <ScalarProperty Name="RECHAZADOS_SEROLOGIA" ColumnName="RECHAZADOS_SEROLOGIA" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="ups_DATOS_PACIENTE" FunctionName="BBCORE1Model.Store.ups_DATOS_PACIENTE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.ups_DATOS_PACIENTE_Result">
+                <ScalarProperty Name="t_doc" ColumnName="t_doc" />
+                <ScalarProperty Name="num_doc" ColumnName="num_doc" />
+                <ScalarProperty Name="num_proc" ColumnName="num_proc" />
+                <ScalarProperty Name="Gh" ColumnName="Gh" />
+                <ScalarProperty Name="PACIENTE" ColumnName="PACIENTE" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_CANDIDATOS_DONACIONES_PACIENTE" FunctionName="BBCORE1Model.Store.usp_CANDIDATOS_DONACIONES_PACIENTE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.usp_CANDIDATOS_DONACIONES_PACIENTE_Result">
+                <ScalarProperty Name="CANDIDATO" ColumnName="CANDIDATO" />
+                <ScalarProperty Name="N_PRE_DON" ColumnName="N_PRE_DON" />
+                <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+                <ScalarProperty Name="FECHA" ColumnName="FECHA" />
+                <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" FunctionName="BBCORE1Model.Store.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result">
+                <ScalarProperty Name="GLOBULOS" ColumnName="GLOBULOS" />
+                <ScalarProperty Name="TRANSFUSION" ColumnName="TRANSFUSION" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+          <FunctionImportMapping FunctionImportName="usp_TRANSFUSIONES_PACIENTE" FunctionName="BBCORE1Model.Store.usp_TRANSFUSIONES_PACIENTE">
+            <ResultMapping>
+              <ComplexTypeMapping TypeName="BBCORE1Model.usp_TRANSFUSIONES_PACIENTE_Result">
+                <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+                <ScalarProperty Name="COMP" ColumnName="COMP" />
+                <ScalarProperty Name="PREDON" ColumnName="PREDON" />
+                <ScalarProperty Name="CANTIDAD" ColumnName="CANTIDAD" />
+                <ScalarProperty Name="F_COMPATIBILIDAD" ColumnName="F_COMPATIBILIDAD" />
+                <ScalarProperty Name="GF" ColumnName="GF" />
+                <ScalarProperty Name="UNIDAD2" ColumnName="UNIDAD2" />
+                <ScalarProperty Name="F_TRANSFUSION" ColumnName="F_TRANSFUSION" />
+              </ComplexTypeMapping>
+            </ResultMapping>
+          </FunctionImportMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

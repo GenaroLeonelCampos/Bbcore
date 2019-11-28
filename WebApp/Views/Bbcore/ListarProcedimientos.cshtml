@@ -1,0 +1,51 @@
+﻿@model IEnumerable<HRA.Datos.ups_DATOS_PACIENTE_Result>
+
+@{
+    ViewBag.Title = "ListarProcedimientos";
+}
+
+<h2>ListarProcedimientos</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.num_doc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.num_proc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PACIENTE)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.num_doc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.num_proc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PACIENTE)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.t_doc }) |
+            @Html.ActionLink("Details", "Details", new { id=item.t_doc }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.t_doc })
+        </td>
+    </tr>
+}
+
+</table>

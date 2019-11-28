@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRA.Datos", "HRA.Datos\HRA.Datos.csproj", "{A3875A6B-AACC-4F39-AD21-2496A71B6DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRA.Negocio", "HRA.Negocio\HRA.Negocio.csproj", "{09D806FA-8F8C-45C6-ABE1-7A4DC5F7DABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{942E6A5D-AE6D-4FB4-9733-2F227D89A294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3875A6B-AACC-4F39-AD21-2496A71B6DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3875A6B-AACC-4F39-AD21-2496A71B6DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3875A6B-AACC-4F39-AD21-2496A71B6DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3875A6B-AACC-4F39-AD21-2496A71B6DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D806FA-8F8C-45C6-ABE1-7A4DC5F7DABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D806FA-8F8C-45C6-ABE1-7A4DC5F7DABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D806FA-8F8C-45C6-ABE1-7A4DC5F7DABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D806FA-8F8C-45C6-ABE1-7A4DC5F7DABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{942E6A5D-AE6D-4FB4-9733-2F227D89A294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{942E6A5D-AE6D-4FB4-9733-2F227D89A294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{942E6A5D-AE6D-4FB4-9733-2F227D89A294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{942E6A5D-AE6D-4FB4-9733-2F227D89A294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E66242-2EDA-4941-B183-F5C8DFAA08FA}
+	EndGlobalSection
+EndGlobal

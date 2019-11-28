@@ -1,0 +1,141 @@
+﻿@{
+    ViewBag.Title = "ReporteMovimientoBbCore";
+}
+<main>
+    <div class="container">
+        <!-- Icon Prefixes -->
+        <div class="row">
+            <div class="col s6">
+                <div id="icon-prefixes" class="card card-tabs">
+                    <div class="card-content">
+                        <div class="card-title">
+                            <div class="row">
+                                <div class="col s12 m6 l10">
+                                    <h4 class="card-title">Control de Transfusión de Pacientes</h4>
+                                </div>                                
+                            </div>
+                        </div>
+                        <div id="view-icon-prefixes" class="active">                            
+                            @*<br>*@
+                            <div class="row">
+                                <form class="col s12">
+                                    <div class="row">
+                                        <div class="input-field col s8">
+                                            <i class="material-icons prefix">account_circle</i>
+                                            <input id="icon_prefix3" type="text" v-model="hc" name="hc" value="" placeholder="Ingrese H.C" class="validate">
+                                            <label for="icon_prefix3" class="">Historia Clinica</label>
+                                        </div>
+                                        <div class="input-field col s3">
+                                            <div class="form-actions no-color">
+                                                <input type="button" v-on:click="CargarProcedimientos()" value="Enviar" class="btn btn-primary" />
+                                            </div>
+                                        </div>                                        
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div id="html-icon-prefixes" style="display: none;">
+                            <pre class=" language-markup"><code class=" language-markup"><span class="token lf">
+</span>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>col s12<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>input-field col s6<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>i</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>material-icons prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>account_circle<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>i</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_prefix<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>validate<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span> <span class="token attr-name">for</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>First Name<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>input-field col s6<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>i</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>material-icons prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>phone<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>i</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_telephone<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>tel<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>validate<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span> <span class="token attr-name">for</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_telephone<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>Telephone<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>  </code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col s6">
+                <div id="icon-prefixes" class="card card-tabs">
+                    <div class="card-content">
+                        <div class="card-title">
+                            <div class="row">
+                                <div class="col s12 m6 l10">
+                                    <h4 class="card-title">Procedimientos</h4>
+                                </div>
+                                <div class="col s12 m6 l2">
+                                    <ul class="tabs">
+                                        @*<li class="tab col s6 p-0"><a class="p-0 active" href="#view-icon-prefixes">View</a></li>
+                                            <li class="tab col s6 p-0"><a class="p-0" href="#html-icon-prefixes">Html</a></li>
+                                            <li class="indicator" style="left: 0px; right: 70px;"></li>*@
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="view-icon-prefixes" class="active">
+                            <p>
+                                @*You can add an icon prefix to make the form input label even more clear. Just add an icon with the class
+                                    <code class=" language-markup">prefix</code> before the input and label.*@
+                            </p>
+                            <br>
+                            <div class="row">
+                                <form class="col s12">
+                                    <div class="row">                                        
+                                        <div class="input-field col s4">
+                                            <div v-for="i in Procedimientos">
+                                                <a target="_blank" v-bind:href="'@Url.Action("ReporteMovimientoBbCore2","Reporte")' + '?proc=' + i.num_proc + '&hc=' + i.num_doc">{{ i.num_proc }}</a>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div id="html-icon-prefixes" style="display: none;">
+                            <pre class=" language-markup"><code class=" language-markup"><span class="token lf">
+</span>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>form</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>col s12<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>row<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>input-field col s6<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>i</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>material-icons prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>account_circle<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>i</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_prefix<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>text<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>validate<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span> <span class="token attr-name">for</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>First Name<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>div</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>input-field col s6<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>i</span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>material-icons prefix<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>phone<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>i</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>input</span> <span class="token attr-name">id</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_telephone<span class="token punctuation">"</span></span> <span class="token attr-name">type</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>tel<span class="token punctuation">"</span></span> <span class="token attr-name">class</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>validate<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>          <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>label</span> <span class="token attr-name">for</span><span class="token attr-value"><span class="token punctuation">=</span><span class="token punctuation">"</span>icon_telephone<span class="token punctuation">"</span></span><span class="token punctuation">&gt;</span></span>Telephone<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>label</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>        <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>      <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>    <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>form</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>  <span class="token tag"><span class="token tag"><span class="token punctuation">&lt;/</span>div</span><span class="token punctuation">&gt;</span></span><span class="token lf">
+</span>  </code></pre>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+@section scripts{
+    <script>
+        var vapp = new Vue({
+            el: 'main',
+            data: {
+                hc:"",
+                Procedimientos: []
+            },
+            methods: {
+                CargarProcedimientos: function () {
+                    var self = this;
+                    $.get('@Url.Action("ListarProcedimiento", "Reporte")', { pHc: self.hc }, function (d) {
+                        self.Procedimientos = d;
+                    });
+                }
+            }
+        });
+    </script>
+}

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BBCORE1ModelStoreContainer" CdmEntityContainer="BBCORE1Entities">
+    <FunctionImportMapping FunctionImportName="CONSUMO_DETALLE" FunctionName="BBCORE1Model.Store.CONSUMO_DETALLE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_DETALLE_Result">
+          <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+          <ScalarProperty Name="HEMOCOMPONENTE" ColumnName="HEMOCOMPONENTE" />
+          <ScalarProperty Name="CANTIDAD" ColumnName="CANTIDAD" />
+          <ScalarProperty Name="COMPATIBILIZADO" ColumnName="COMPATIBILIZADO" />
+          <ScalarProperty Name="ABO" ColumnName="ABO" />
+          <ScalarProperty Name="SALIDA" ColumnName="SALIDA" />
+          <ScalarProperty Name="po_estado" ColumnName="po_estado" />
+          <ScalarProperty Name="POBLADOR" ColumnName="POBLADOR" />
+          <ScalarProperty Name="u_estado" ColumnName="u_estado" />
+          <ScalarProperty Name="po_id" ColumnName="po_id" />
+          <ScalarProperty Name="SELLO" ColumnName="SELLO" />
+          <ScalarProperty Name="u_hem_id" ColumnName="u_hem_id" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CONSUMO_DETALLE_RESUMEN" FunctionName="BBCORE1Model.Store.CONSUMO_DETALLE_RESUMEN">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_DETALLE_RESUMEN_Result">
+          <ScalarProperty Name="GLOBULOS" ColumnName="GLOBULOS" />
+          <ScalarProperty Name="PLAQUETAS" ColumnName="PLAQUETAS" />
+          <ScalarProperty Name="PLASMA" ColumnName="PLASMA" />
+          <ScalarProperty Name="CRIO" ColumnName="CRIO" />
+          <ScalarProperty Name="AFERESIS" ColumnName="AFERESIS" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CONSUMO_PACIENTE" FunctionName="BBCORE1Model.Store.CONSUMO_PACIENTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_PACIENTE_Result">
+          <ScalarProperty Name="HISTORIA" ColumnName="HISTORIA" />
+          <ScalarProperty Name="POSTULANTE" ColumnName="POSTULANTE" />
+          <ScalarProperty Name="ABO" ColumnName="ABO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="CONSUMO_RESUMEN_DONANTES" FunctionName="BBCORE1Model.Store.CONSUMO_RESUMEN_DONANTES">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.CONSUMO_RESUMEN_DONANTES_Result">
+          <ScalarProperty Name="POSTULANTES" ColumnName="POSTULANTES" />
+          <ScalarProperty Name="DONANTE" ColumnName="DONANTE" />
+          <ScalarProperty Name="RECHAZADOS" ColumnName="RECHAZADOS" />
+          <ScalarProperty Name="RECHAZADOS_SEROLOGIA" ColumnName="RECHAZADOS_SEROLOGIA" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ups_DATOS_PACIENTE" FunctionName="BBCORE1Model.Store.ups_DATOS_PACIENTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.ups_DATOS_PACIENTE_Result">
+          <ScalarProperty Name="t_doc" ColumnName="t_doc" />
+          <ScalarProperty Name="num_doc" ColumnName="num_doc" />
+          <ScalarProperty Name="num_proc" ColumnName="num_proc" />
+          <ScalarProperty Name="Gh" ColumnName="Gh" />
+          <ScalarProperty Name="PACIENTE" ColumnName="PACIENTE" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_CANDIDATOS_DONACIONES_PACIENTE" FunctionName="BBCORE1Model.Store.usp_CANDIDATOS_DONACIONES_PACIENTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.usp_CANDIDATOS_DONACIONES_PACIENTE_Result">
+          <ScalarProperty Name="CANDIDATO" ColumnName="CANDIDATO" />
+          <ScalarProperty Name="N_PRE_DON" ColumnName="N_PRE_DON" />
+          <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+          <ScalarProperty Name="FECHA" ColumnName="FECHA" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" FunctionName="BBCORE1Model.Store.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result">
+          <ScalarProperty Name="GLOBULOS" ColumnName="GLOBULOS" />
+          <ScalarProperty Name="TRANSFUSION" ColumnName="TRANSFUSION" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="usp_TRANSFUSIONES_PACIENTE" FunctionName="BBCORE1Model.Store.usp_TRANSFUSIONES_PACIENTE">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BBCORE1Model.usp_TRANSFUSIONES_PACIENTE_Result">
+          <ScalarProperty Name="UNIDAD" ColumnName="UNIDAD" />
+          <ScalarProperty Name="COMP" ColumnName="COMP" />
+          <ScalarProperty Name="PREDON" ColumnName="PREDON" />
+          <ScalarProperty Name="CANTIDAD" ColumnName="CANTIDAD" />
+          <ScalarProperty Name="F_COMPATIBILIDAD" ColumnName="F_COMPATIBILIDAD" />
+          <ScalarProperty Name="GF" ColumnName="GF" />
+          <ScalarProperty Name="UNIDAD2" ColumnName="UNIDAD2" />
+          <ScalarProperty Name="F_TRANSFUSION" ColumnName="F_TRANSFUSION" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,556 @@
+D:\bbcore\WebApp\bin\SqlServerTypes\x64\msvcr120.dll
+D:\bbcore\WebApp\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\bbcore\WebApp\bin\SqlServerTypes\x86\msvcr120.dll
+D:\bbcore\WebApp\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\bbcore\WebApp\bin\WebApp.dll.config
+D:\bbcore\WebApp\bin\WebApp.dll
+D:\bbcore\WebApp\bin\WebApp.pdb
+D:\bbcore\WebApp\bin\roslyn\csc.exe
+D:\bbcore\WebApp\bin\roslyn\csc.exe.config
+D:\bbcore\WebApp\bin\roslyn\csc.rsp
+D:\bbcore\WebApp\bin\roslyn\csi.exe
+D:\bbcore\WebApp\bin\roslyn\csi.exe.config
+D:\bbcore\WebApp\bin\roslyn\csi.rsp
+D:\bbcore\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\bbcore\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\bbcore\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\bbcore\WebApp\bin\roslyn\System.AppContext.dll
+D:\bbcore\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\bbcore\WebApp\bin\roslyn\System.Console.dll
+D:\bbcore\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\bbcore\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\bbcore\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\bbcore\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\bbcore\WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\bbcore\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Claims.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\bbcore\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\bbcore\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\bbcore\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\bbcore\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\bbcore\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\bbcore\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\bbcore\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\bbcore\WebApp\bin\roslyn\vbc.exe
+D:\bbcore\WebApp\bin\roslyn\vbc.exe.config
+D:\bbcore\WebApp\bin\roslyn\vbc.rsp
+D:\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\bbcore\WebApp\bin\Antlr3.Runtime.dll
+D:\bbcore\WebApp\bin\EntityFramework.dll
+D:\bbcore\WebApp\bin\EntityFramework.SqlServer.dll
+D:\bbcore\WebApp\bin\HRA.Datos.dll
+D:\bbcore\WebApp\bin\HRA.Negocio.dll
+D:\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.Common.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.Design.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.WebForms.dll
+D:\bbcore\WebApp\bin\Microsoft.SqlServer.Types.dll
+D:\bbcore\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\bbcore\WebApp\bin\Newtonsoft.Json.dll
+D:\bbcore\WebApp\bin\System.Web.Helpers.dll
+D:\bbcore\WebApp\bin\System.Web.Mvc.dll
+D:\bbcore\WebApp\bin\System.Web.Optimization.dll
+D:\bbcore\WebApp\bin\System.Web.Razor.dll
+D:\bbcore\WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\bbcore\WebApp\bin\System.Web.WebPages.dll
+D:\bbcore\WebApp\bin\System.Web.WebPages.Razor.dll
+D:\bbcore\WebApp\bin\WebGrease.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\bbcore\WebApp\bin\EnvDTE.dll
+D:\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\bbcore\WebApp\bin\Microsoft.ReportViewer.WinForms.dll
+D:\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\bbcore\WebApp\bin\stdole.dll
+D:\bbcore\WebApp\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\bbcore\WebApp\bin\Microsoft.MSXML.dll
+D:\bbcore\WebApp\bin\HRA.Datos.pdb
+D:\bbcore\WebApp\bin\HRA.Datos.dll.config
+D:\bbcore\WebApp\bin\HRA.Negocio.pdb
+D:\bbcore\WebApp\bin\EntityFramework.xml
+D:\bbcore\WebApp\bin\EntityFramework.SqlServer.xml
+D:\bbcore\WebApp\bin\System.Web.Helpers.xml
+D:\bbcore\WebApp\bin\System.Web.Mvc.xml
+D:\bbcore\WebApp\bin\System.Web.Optimization.xml
+D:\bbcore\WebApp\bin\System.Web.Razor.xml
+D:\bbcore\WebApp\bin\System.Web.WebPages.xml
+D:\bbcore\WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\bbcore\WebApp\bin\System.Web.WebPages.Razor.xml
+D:\bbcore\WebApp\bin\Newtonsoft.Json.xml
+D:\bbcore\WebApp\bin\Antlr3.Runtime.pdb
+D:\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.Helpers.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.Mvc.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.Optimization.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.Razor.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.WebPages.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\bbcore\WebApp\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\bbcore\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\bbcore\WebApp\obj\Debug\RdlCompile.cache
+D:\bbcore\WebApp\obj\Debug\RdlCompile.compiled
+D:\bbcore\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\bbcore\WebApp\obj\Debug\WebApp.dll
+D:\bbcore\WebApp\obj\Debug\WebApp.pdb
+D:\Proyectos_Muni\bbcore\WebApp\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\WebApp.dll.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\WebApp.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\WebApp.pdb
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csc.exe
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csc.exe.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csc.rsp
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csi.exe
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csi.exe.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\csi.rsp
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.AppContext.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Console.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Claims.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\vbc.exe
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\vbc.exe.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\vbc.rsp
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos_Muni\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\Antlr3.Runtime.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\EntityFramework.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\EntityFramework.SqlServer.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\HRA.Datos.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\HRA.Negocio.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.Common.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.Design.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.SqlServer.Types.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Newtonsoft.Json.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Helpers.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Mvc.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Optimization.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Razor.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.Razor.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\WebGrease.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\EnvDTE.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\stdole.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.VSHelp.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\EnvDTE80.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.Build.Tasks.Core.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Data.Services.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\VSLangProj.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Data.Core.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\VSLangProj80.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.GraphModel.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.MSXML.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.Build.Utilities.Core.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.Build.Framework.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\VSLangProj2.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\HRA.Datos.pdb
+D:\Proyectos_Muni\bbcore\WebApp\bin\HRA.Datos.dll.config
+D:\Proyectos_Muni\bbcore\WebApp\bin\HRA.Negocio.pdb
+D:\Proyectos_Muni\bbcore\WebApp\bin\EntityFramework.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\EntityFramework.SqlServer.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Helpers.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Mvc.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Optimization.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.Razor.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\System.Web.WebPages.Razor.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Newtonsoft.Json.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Antlr3.Runtime.pdb
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.Helpers.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.Mvc.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.Optimization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.Razor.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.WebPages.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.VisualStudio.Data.Services.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\bin\es\Microsoft.VisualStudio.Data.Core.resources.dll
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\WebApp.dll
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\WebApp.pdb
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\RdlCompile.cache
+D:\Proyectos_Muni\bbcore\WebApp\obj\Debug\RdlCompile.compiled
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Reporte\RptTransfusionBbCore.rdlc
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\WebApp.dll.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\WebApp.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\WebApp.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csc.exe
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csc.exe.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csc.rsp
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csi.exe
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csi.exe.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\csi.rsp
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.AppContext.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Console.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Claims.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\vbc.exe
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\vbc.exe.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\vbc.rsp
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Antlr3.Runtime.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\EntityFramework.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\EntityFramework.SqlServer.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\HRA.Datos.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\HRA.Negocio.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.Common.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.Design.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.WebDesign.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.WebForms.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.SqlServer.Types.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Newtonsoft.Json.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Helpers.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Mvc.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Optimization.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Razor.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.Razor.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\WebGrease.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.DataVisualization.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\EnvDTE.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.ReportViewer.WinForms.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\stdole.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.MSXML.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\HRA.Datos.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\HRA.Datos.dll.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\HRA.Negocio.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\EntityFramework.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\EntityFramework.SqlServer.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Helpers.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Mvc.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Optimization.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.Razor.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\System.Web.WebPages.Razor.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Newtonsoft.Json.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Antlr3.Runtime.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.Helpers.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.Mvc.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.Optimization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.Razor.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.WebPages.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\RdlCompile.cache
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\RdlCompile.compiled
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\WebApp.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\WebApp\obj\Debug\WebApp.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCandidato" targetNamespace="http://tempuri.org/dsCandidato.xsd" xmlns:mstns="http://tempuri.org/dsCandidato.xsd" xmlns="http://tempuri.org/dsCandidato.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCandidato" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCandidato" msprop:Generator_UserDSName="dsCandidato">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dsCandidato" msprop:Generator_TableClassName="dsCandidatoDataTable" msprop:Generator_TableVarName="tabledsCandidato" msprop:Generator_TablePropName="_dsCandidato" msprop:Generator_RowDeletingName="dsCandidatoRowDeleting" msprop:Generator_RowChangingName="dsCandidatoRowChanging" msprop:Generator_RowEvHandlerName="dsCandidatoRowChangeEventHandler" msprop:Generator_RowDeletedName="dsCandidatoRowDeleted" msprop:Generator_UserTableName="dsCandidato" msprop:Generator_RowChangedName="dsCandidatoRowChanged" msprop:Generator_RowEvArgName="dsCandidatoRowChangeEvent" msprop:Generator_RowClassName="dsCandidatoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CANDIDATO" msprop:Generator_ColumnVarNameInTable="columnCANDIDATO" msprop:Generator_ColumnPropNameInRow="CANDIDATO" msprop:Generator_ColumnPropNameInTable="CANDIDATOColumn" msprop:Generator_UserColumnName="CANDIDATO" type="xs:string" minOccurs="0" />
+              <xs:element name="N_PRE_DON" msprop:Generator_ColumnVarNameInTable="columnN_PRE_DON" msprop:Generator_ColumnPropNameInRow="N_PRE_DON" msprop:Generator_ColumnPropNameInTable="N_PRE_DONColumn" msprop:Generator_UserColumnName="N_PRE_DON" type="xs:string" minOccurs="0" />
+              <xs:element name="UNIDAD" msprop:Generator_ColumnVarNameInTable="columnUNIDAD" msprop:Generator_ColumnPropNameInRow="UNIDAD" msprop:Generator_ColumnPropNameInTable="UNIDADColumn" msprop:Generator_UserColumnName="UNIDAD" type="xs:string" minOccurs="0" />
+              <xs:element name="FECHA" msprop:Generator_ColumnVarNameInTable="columnFECHA" msprop:Generator_ColumnPropNameInRow="FECHA" msprop:Generator_ColumnPropNameInTable="FECHAColumn" msprop:Generator_UserColumnName="FECHA" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ESTADO" msprop:Generator_ColumnVarNameInTable="columnESTADO" msprop:Generator_ColumnPropNameInRow="ESTADO" msprop:Generator_ColumnPropNameInTable="ESTADOColumn" msprop:Generator_UserColumnName="ESTADO" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

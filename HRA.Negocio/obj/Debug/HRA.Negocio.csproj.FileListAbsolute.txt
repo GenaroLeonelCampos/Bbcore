@@ -1,0 +1,39 @@
+D:\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.dll
+D:\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.pdb
+D:\bbcore\HRA.Negocio\bin\Debug\EntityFramework.dll
+D:\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll
+D:\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.pdb
+D:\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll.config
+D:\bbcore\HRA.Negocio\bin\Debug\EntityFramework.xml
+D:\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csprojAssemblyReference.cache
+D:\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csproj.CopyComplete
+D:\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.dll
+D:\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.pdb
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.dll
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.pdb
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\EntityFramework.dll
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.pdb
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll.config
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\EntityFramework.xml
+D:\Proyectos_Muni\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos_Muni\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csprojAssemblyReference.cache
+D:\Proyectos_Muni\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csproj.CopyComplete
+D:\Proyectos_Muni\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.dll
+D:\Proyectos_Muni\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\HRA.Negocio.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\EntityFramework.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\HRA.Datos.dll.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\EntityFramework.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csprojAssemblyReference.cache
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.csproj.CopyComplete
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Negocio\obj\Debug\HRA.Negocio.pdb

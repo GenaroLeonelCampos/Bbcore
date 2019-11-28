@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "ReporteMovimientoBbCore";
+}
+
+@*<h2>Reporte HRA</h2>
+    <form action="@Url.Action("ReporteMovimientoBbCore","Reporte")" target="_blank" method="get">
+        <input type="text" name="hc" value="" placeholder="Ingres H.C" />
+        <input type="date" name="fecha_inicio" value="" />
+        <input type="date" name="fecha_fin" value="" />
+        <input type="submit" value="Enviar" />
+    </form>*@
+
+    <form action="@Url.Action("ReporteMovimientoBbCore","Reporte")" target="_blank" method="get">
+        <div class="form-horizontal control">
+            @*<h2 class="text-center"> Reporte HRA</h2>*@
+            <hr />
+            <div class="row">
+                <div class="col-md-12 center-block">
+                    <table id="tblDatos" class="table table-bordered table-hover thead-light" border="0">
+                        <thead>
+                            <tr>
+                                <th>Historia Clinica</th>
+                                <th>Fecha Inicio</th>
+                                <th>Fecha Final</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <input type="text" name="hc" value="" placeholder="Ingrese H.C" />
+                                </td>
+                                <td>
+                                    <input type="date" name="fecha_inicio" value="" />
+                                </td>
+                                <td>
+                                    <input type="date" name="fecha_fin" value="" />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="form-actions no-color">
+            <input type="submit" value="Enviar" class="btn btn-primary" />
+        </div>
+    </form>
+

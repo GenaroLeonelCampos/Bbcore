@@ -1,0 +1,32 @@
+D:\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll.config
+D:\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll
+D:\bbcore\HRA.Datos\bin\Debug\HRA.Datos.pdb
+D:\bbcore\HRA.Datos\bin\Debug\EntityFramework.dll
+D:\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\bbcore\HRA.Datos\bin\Debug\EntityFramework.xml
+D:\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\bbcore\HRA.Datos\obj\Debug\HRA.Datos.csproj.CopyComplete
+D:\bbcore\HRA.Datos\obj\Debug\HRA.Datos.dll
+D:\bbcore\HRA.Datos\obj\Debug\HRA.Datos.pdb
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll.config
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\HRA.Datos.pdb
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\EntityFramework.dll
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\EntityFramework.xml
+D:\Proyectos_Muni\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos_Muni\bbcore\HRA.Datos\obj\Debug\HRA.Datos.csprojAssemblyReference.cache
+D:\Proyectos_Muni\bbcore\HRA.Datos\obj\Debug\HRA.Datos.csproj.CopyComplete
+D:\Proyectos_Muni\bbcore\HRA.Datos\obj\Debug\HRA.Datos.dll
+D:\Proyectos_Muni\bbcore\HRA.Datos\obj\Debug\HRA.Datos.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll.config
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\HRA.Datos.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\HRA.Datos.pdb
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\EntityFramework.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\EntityFramework.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\obj\Debug\HRA.Datos.csprojAssemblyReference.cache
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\obj\Debug\HRA.Datos.csproj.CopyComplete
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\obj\Debug\HRA.Datos.dll
+D:\Genaro Leonel Campos Carmen\Programación\bbcore\HRA.Datos\obj\Debug\HRA.Datos.pdb

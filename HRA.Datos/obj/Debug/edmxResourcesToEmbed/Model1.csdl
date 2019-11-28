@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BBCORE1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BBCORE1Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="CONSUMO_DETALLE" ReturnType="Collection(BBCORE1Model.CONSUMO_DETALLE_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+      <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+      <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="CONSUMO_DETALLE_RESUMEN" ReturnType="Collection(BBCORE1Model.CONSUMO_DETALLE_RESUMEN_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+      <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+      <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="CONSUMO_PACIENTE" ReturnType="Collection(BBCORE1Model.CONSUMO_PACIENTE_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="CONSUMO_RESUMEN_DONANTES" ReturnType="Collection(BBCORE1Model.CONSUMO_RESUMEN_DONANTES_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+      <Parameter Name="FINICIO" Mode="In" Type="DateTime" />
+      <Parameter Name="FFINAL" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="ups_DATOS_PACIENTE" ReturnType="Collection(BBCORE1Model.ups_DATOS_PACIENTE_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_CANDIDATOS_DONACIONES_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_CANDIDATOS_DONACIONES_PACIENTE_Result)">
+      <Parameter Name="HISTORIA" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result)">
+      <Parameter Name="num_procedimiento" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="usp_TRANSFUSIONES_PACIENTE" ReturnType="Collection(BBCORE1Model.usp_TRANSFUSIONES_PACIENTE_Result)">
+      <Parameter Name="NUM_PROCEDIMIENTO" Mode="In" Type="String" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="CONSUMO_DETALLE_Result">
+    <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+    <Property Type="String" Name="HEMOCOMPONENTE" Nullable="true" MaxLength="20" />
+    <Property Type="Int16" Name="CANTIDAD" Nullable="true" />
+    <Property Type="DateTime" Name="COMPATIBILIZADO" Nullable="true" Precision="23" />
+    <Property Type="String" Name="ABO" Nullable="true" MaxLength="4" />
+    <Property Type="DateTime" Name="SALIDA" Nullable="true" Precision="23" />
+    <Property Type="Int32" Name="po_estado" Nullable="true" />
+    <Property Type="Int32" Name="POBLADOR" Nullable="true" />
+    <Property Type="Int16" Name="u_estado" Nullable="true" />
+    <Property Type="Int32" Name="po_id" Nullable="false" />
+    <Property Type="String" Name="SELLO" Nullable="true" MaxLength="10" />
+    <Property Type="Int32" Name="u_hem_id" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="CONSUMO_DETALLE_RESUMEN_Result">
+    <Property Type="Int32" Name="GLOBULOS" Nullable="true" />
+    <Property Type="Int32" Name="PLAQUETAS" Nullable="true" />
+    <Property Type="Int32" Name="PLASMA" Nullable="true" />
+    <Property Type="Int32" Name="CRIO" Nullable="true" />
+    <Property Type="Int32" Name="AFERESIS" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="CONSUMO_PACIENTE_Result">
+    <Property Type="String" Name="HISTORIA" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="POSTULANTE" Nullable="true" MaxLength="1002" />
+    <Property Type="String" Name="ABO" Nullable="true" MaxLength="4" />
+  </ComplexType>
+  <ComplexType Name="CONSUMO_RESUMEN_DONANTES_Result">
+    <Property Type="Int32" Name="POSTULANTES" Nullable="true" />
+    <Property Type="Int32" Name="DONANTE" Nullable="true" />
+    <Property Type="Int32" Name="RECHAZADOS" Nullable="true" />
+    <Property Type="Int32" Name="RECHAZADOS_SEROLOGIA" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="ups_DATOS_PACIENTE_Result">
+    <Property Type="String" Name="t_doc" Nullable="true" MaxLength="3" />
+    <Property Type="String" Name="num_doc" Nullable="true" MaxLength="40" />
+    <Property Type="String" Name="num_proc" Nullable="true" MaxLength="12" />
+    <Property Type="String" Name="Gh" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="PACIENTE" Nullable="true" MaxLength="1002" />
+  </ComplexType>
+  <ComplexType Name="usp_CANDIDATOS_DONACIONES_PACIENTE_Result">
+    <Property Type="String" Name="CANDIDATO" Nullable="true" MaxLength="1002" />
+    <Property Type="String" Name="N_PRE_DON" Nullable="true" MaxLength="10" />
+    <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+    <Property Type="DateTime" Name="FECHA" Nullable="true" Precision="23" />
+    <Property Type="String" Name="ESTADO" Nullable="false" MaxLength="9" />
+  </ComplexType>
+  <ComplexType Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE_Result">
+    <Property Type="Int32" Name="GLOBULOS" Nullable="true" />
+    <Property Type="Int32" Name="TRANSFUSION" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="usp_TRANSFUSIONES_PACIENTE_Result">
+    <Property Type="String" Name="UNIDAD" Nullable="true" MaxLength="12" />
+    <Property Type="String" Name="COMP" Nullable="true" MaxLength="20" />
+    <Property Type="String" Name="PREDON" Nullable="true" MaxLength="10" />
+    <Property Type="Int16" Name="CANTIDAD" Nullable="true" />
+    <Property Type="DateTime" Name="F_COMPATIBILIDAD" Nullable="true" Precision="23" />
+    <Property Type="String" Name="GF" Nullable="true" MaxLength="4" />
+    <Property Type="String" Name="UNIDAD2" Nullable="true" MaxLength="12" />
+    <Property Type="DateTime" Name="F_TRANSFUSION" Nullable="true" Precision="23" />
+  </ComplexType>
+</Schema>

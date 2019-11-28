@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BBCORE1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <Function Name="CONSUMO_DETALLE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+    <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+    <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="CONSUMO_DETALLE_RESUMEN" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+    <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+    <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="CONSUMO_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="CONSUMO_RESUMEN_DONANTES" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+    <Parameter Name="FINICIO" Type="datetime" Mode="In" />
+    <Parameter Name="FFINAL" Type="datetime" Mode="In" />
+  </Function>
+  <Function Name="ups_DATOS_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_CANDIDATOS_DONACIONES_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="HISTORIA" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_CANT_GLOBULOS_TRANSFUSION_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="num_procedimiento" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="usp_TRANSFUSIONES_PACIENTE" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="NUM_PROCEDIMIENTO" Type="varchar" Mode="In" />
+  </Function>
+  <EntityContainer Name="BBCORE1ModelStoreContainer" />
+</Schema>
